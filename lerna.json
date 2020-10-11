@@ -1,0 +1,4 @@
+{
+  "packages": ["apps/transferly-desktop-app", "apps/transferly-mobile-app"],
+  "version": "independent"
+}
